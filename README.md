@@ -1,10 +1,12 @@
 ## Hola 👋
 <h1>Soy Lope</h1><br>
 <p>Me encuantro al final de la clase junto a Javier,Jorge y e Arturo</p><br>
-<p>Mi juego de cartas favorito es yugiho con el arquetipo de heroes y sarcofago dorado</p>
+<p>Mi juego de cartas favorito es yugioh con el arquetipo de heroes y sarcofago brillante</p>
  <div><img src="caos.jpg">
     <img src="sarcofago.jpg" width="250">
  </div>
+ <br>
+ <p>Actualmente me encuentro haciendo un grado superior de DAM en el Federica Montseny y con muchas ganas de aprobar todo(Espero)</p>
 <!--
 **LopeAX0/LopeAX0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
