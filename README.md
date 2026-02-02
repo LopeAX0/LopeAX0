@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola 👋
+<h1>Soy Lope</h1><br>
+<p>Me encuantro al final de la clase junto a Javier,Jorge y e Arturo</p><br>
+<p>Mi juego de cartas favorito es yugiho con el arquetipo de heroes y sarcofago dorado</p>
+ <img src="caos.jpg">
+    <img src="sarcofago.jpg" width="300">
 
 <!--
 **LopeAX0/LopeAX0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
